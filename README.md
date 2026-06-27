@@ -23,6 +23,13 @@ Interfaces UI nativas (iOS y Android) enfocadas en la calle y la rapidez visual:
 - **LiveTrackingScreen:** Diseño Glassmorphism oscuro HUD superpuesto en el mapa para reducir el gasto de batería y evitar reflejos en la calle.
 - **ContractAcceptanceScreen:** Validación rigurosa que bloquea el flujo hasta cumplir los requisitos legales.
 ---
+## 📁 Estructura General y Procesos
+
+Para una visión detallada y exhaustiva de todos los archivos, carpetas y la explicación de los procesos de negocio que forman esta arquitectura, consulta el documento adjunto:
+
+👉 **[Inventario del Proyecto (project_inventory.md)](./project_inventory.md)**
+
+---
 ## 🛠️ Tecnologías Utilizadas
 - **Base de Datos:** PostgreSQL, Supabase, PostGIS.
 - **Backend:** Node.js, TypeScript, Arquitectura Limpia.
